@@ -1,0 +1,105 @@
+body{
+  width: 100%;
+  height: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 100%;
+  border: 0px;
+  margin: 0px;
+}
+
+.logo{
+    width: 180px;
+    display:block;
+    margin:100px auto;
+    text-align:center;
+
+}
+
+.text{
+    display:block;
+    text-align:center;
+    font-family: 'Alatsi';
+    top: 25px;
+    font-size: 50px;
+    color: green;
+  
+}
+
+.font{
+    display:block;
+    font-family: 'Alatsi';
+    top: 25px;
+    font-size: 20px;
+    color: white;
+
+}
+
+.font2{
+    display:block;
+    font-family: 'Alatsi';
+    top: 25px;
+    font-size: 15 px;
+    color: white;
+    
+}
+.container { 
+  height: 50px;
+  position: relative;
+  border: 3px solid green; 
+  width: 75%;
+  margin-left: 12.5%;
+  background-color: green;
+}
+
+.center {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+.Gino22{
+    margin-left: 12.5%;
+
+}
+
+.statocarica{
+  height: 25px;
+  position: relative;
+  border: 3px solid black; 
+  width: 35%;
+  margin-left: 0%;
+  background-color: pink;
+}
+
+.Mike24{
+  margin-left: 12.5%;
+  
+}
+
+.statocarica1{
+  height: 25px;
+  position: relative;
+  border: 3px solid black; 
+  width: 47%;
+  margin-left: 0%;
+  background-color: green;
+}
+
+.Fede154{
+  margin-left: 12.5%;
+  
+}
+
+.statocarica2{
+  height: 25px;
+  position: relative;
+  border: 3px solid black; 
+  width: 10%;
+  margin-left: 0%;
+  background-color: red;
+}
+
